@@ -1,2 +1,2 @@
 # react-WeatherSearch
-Weather forecast brwoser as a training app
+Weather forecast browser as a training app
